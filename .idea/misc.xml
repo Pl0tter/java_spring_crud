@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <writeAnnotations>
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Autowired" />
+    </writeAnnotations>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -11,6 +16,11 @@
         <option value="$PROJECT_DIR$/src/main/java/seminar02/example02/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar02/example03/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar02/example04/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar03/example01/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar03/example02rest/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar03/example04hometask/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar03/example03scope/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/homework03/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />

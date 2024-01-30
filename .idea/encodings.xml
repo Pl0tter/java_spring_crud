@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/homework02/CRUDSpringWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework03/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/CRUDSpringWeb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example01/src/main/resources" charset="UTF-8" />
@@ -12,6 +13,16 @@
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example03/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example04/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example04/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example02rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example02rest/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example03scope/sq-ch9-ex3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example03scope/sq-ch9-ex3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example03scope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example03scope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example04hometask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar03/example04hometask/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
