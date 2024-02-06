@@ -26,11 +26,18 @@
         <option value="$PROJECT_DIR$/src/main/java/seminar04/example03/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar04/example04/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/homework04/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar05/example01/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar05/example02/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar05/example03/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/homework05/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>
