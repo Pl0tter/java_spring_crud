@@ -21,6 +21,7 @@ public class TaskService {
 
     public Task addTask(Task task) {
         task.setCreationTime(LocalDateTime.now());
+        if (task.getTaskStatus() == null) task.setTaskStatus(TaskStatus.NOT_STARTED);
         return taskRepository.save(task);
     }
 
