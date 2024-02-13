@@ -8,6 +8,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/homework04/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/homework05/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/homework06/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework07/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/homework07/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/CRUDSpringWeb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar02/example01/src/main/resources" charset="UTF-8" />
@@ -34,6 +36,16 @@
     <file url="file://$PROJECT_DIR$/src/main/java/seminar05/example01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar05/example02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/seminar05/example03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example02Form/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example04JWT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example04JWT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example05JWTHabr/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example05JWTHabr/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example06OlderMan/SpringBoot3.2.0/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/seminar07/example06OlderMan/SpringBoot3.2.0/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

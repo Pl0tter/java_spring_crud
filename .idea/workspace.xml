@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 05 - Task Controller">
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 06 - Base Task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework05/src/main/java/com/example/homework05/service/TaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework05/src/main/java/com/example/homework05/service/TaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -71,7 +78,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework06/pom.xml",
+    "last_opened_file_path": "E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework07/src/main/resources/static",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -80,13 +87,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\static" />
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework05\src\main\resources" />
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework04\src\main\resources\templates" />
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework03\src\main\resources" />
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework02" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\templates" />
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources" />
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\static" />
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Homework06">
+  <component name="RunManager" selected="Application.Homework07">
     <configuration name="Homework02_CRUD" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="CRUD_homework" />
@@ -118,6 +132,26 @@
     <configuration name="Homework06" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.homework06.Homework06Application" />
       <module name="homework06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework07" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="homework07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="homework07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,6 +261,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Seminar07_Example01" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.spring_security_demo.SpringSecurityDemoApplication" />
+      <module name="seminar07.example01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar07_Example02" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.laurentiuspilca.ssia.Main" />
+      <module name="seminar07.example02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar07_Example03" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.laurentiuspilca.ssia.Main" />
+      <module name="seminar07.example03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar07_Example04" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.simplejwt.SimpleJwtApplication" />
+      <module name="seminar07.example04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Seminar05_Example01" />
       <item itemvalue="Application.Seminar04_Example04" />
@@ -237,6 +299,10 @@
       <item itemvalue="Application.Seminar04_Example03" />
       <item itemvalue="Application.Homework05" />
       <item itemvalue="Application.Homework06" />
+      <item itemvalue="Application.Seminar07_Example01" />
+      <item itemvalue="Application.Seminar07_Example02" />
+      <item itemvalue="Application.Seminar07_Example03" />
+      <item itemvalue="Application.Seminar07_Example04" />
       <item itemvalue="Application.Homework02_CRUD" />
       <item itemvalue="Application.Seminar03_Example01" />
       <item itemvalue="Application.Seminar03_Example02" />
@@ -248,7 +314,14 @@
       <item itemvalue="Application.Seminar02_Example02" />
       <item itemvalue="Application.Seminar02_Example03" />
       <item itemvalue="Application.Seminar02_Example04" />
+      <item itemvalue="Application.Homework07" />
+      <item itemvalue="Application.Main" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -304,7 +377,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707236217830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix Homework 05 - Task Controller">
+      <option name="closed" value="true" />
+      <created>1707494308808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707494308808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Homework 06 - Base Task">
+      <option name="closed" value="true" />
+      <created>1707494334910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707494334910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Homework 06 - Base Task">
+      <option name="closed" value="true" />
+      <created>1707494382557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707494382557</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -313,6 +410,8 @@
     <MESSAGE value="add Homework 03 - REST - readme" />
     <MESSAGE value="add Homework 04 - CRUD - v2" />
     <MESSAGE value="add Homework 05 - Task Controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework 05 - Task Controller" />
+    <MESSAGE value="fix Homework 05 - Task Controller" />
+    <MESSAGE value="add Homework 06 - Base Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework 06 - Base Task" />
   </component>
 </project>
