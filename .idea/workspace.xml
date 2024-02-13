@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 06 - Base Task">
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 07 - Base Task">
       <change afterPath="$PROJECT_DIR$/src/main/java/homework07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/java/org/example/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/java/org/example/controller/DataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/resources/templates/private.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/src/main/resources/templates/public.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework07/target/classes/org/example/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -412,6 +419,7 @@
     <MESSAGE value="add Homework 05 - Task Controller" />
     <MESSAGE value="fix Homework 05 - Task Controller" />
     <MESSAGE value="add Homework 06 - Base Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework 06 - Base Task" />
+    <MESSAGE value="add Homework 07 - Base Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework 07 - Base Task" />
   </component>
 </project>
