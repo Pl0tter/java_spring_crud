@@ -2,10 +2,13 @@
 <html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
-    <title>Private data</title>
+    <title>Access denied</title>
 </head>
 <body>
-<h2>This is private data. Only for admins!</h2>
+<h2>Доступ запрещен! Попробуйте снова.</h2>
+<form th:method="POST" th:action="@{/login}">
+    <button>Login</button>
+</form>
 <form th:method="POST" th:action="@{/logout}">
     <button>Logout</button>
 </form>

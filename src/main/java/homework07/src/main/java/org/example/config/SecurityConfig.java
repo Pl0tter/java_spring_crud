@@ -22,12 +22,13 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .formLogin()
                 .loginPage("/login")
                 .permitAll()
-                .loginProcessingUrl("/process_login")
                 .defaultSuccessUrl("/public")
-                .failureUrl("/login?error")
                 .and()
                 .logout()
-                .logoutSuccessUrl("/login");
+                .logoutSuccessUrl("/login")
+                .and()
+                .exceptionHandling()
+                .accessDeniedPage("/forbidden");
     }
 
     @Bean
