@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="fix Homework 07 - Base Task">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework08/Homework06Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework08/controller/NoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework08/model/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/repository/NoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework08/repository/NoteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/service/NoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework08/service/NoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework06/Homework06ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework08/Homework06ApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 08 - Base Task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +13,6 @@
   <component name="ChangesViewManager">
     <option name="groupingKeys">
       <option value="directory" />
-      <option value="module" />
     </option>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -430,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707921196186</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add Homework 08 - Base Task">
+      <option name="closed" value="true" />
+      <created>1708097219448</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708097219448</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -443,6 +439,7 @@
     <MESSAGE value="add Homework 06 - Base Task" />
     <MESSAGE value="add Homework 07 - Base Task" />
     <MESSAGE value="fix Homework 07 - Base Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix Homework 07 - Base Task" />
+    <MESSAGE value="add Homework 08 - Base Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework 08 - Base Task" />
   </component>
 </project>
