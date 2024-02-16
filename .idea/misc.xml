@@ -37,8 +37,14 @@
         <option value="$PROJECT_DIR$/src/main/java/seminar07/example04JWT/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar07/example05JWTHabr/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar07/example06OlderMan/SpringBoot3.2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar08/example01/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar08/example02/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar08/example03/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/seminar08/example04/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/homework08/pom.xml" />
       </list>
     </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
