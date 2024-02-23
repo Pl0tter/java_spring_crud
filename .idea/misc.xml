@@ -42,7 +42,13 @@
         <option value="$PROJECT_DIR$/src/main/java/seminar08/example03/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/seminar08/example04/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/homework08/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/homework10/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>

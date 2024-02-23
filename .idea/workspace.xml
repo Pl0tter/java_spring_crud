@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 08 - Base Task" />
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="fix Homework 08 - Base Task - README">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/Homework06Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/model/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/Homework06ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/service/NoteServiceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/service/NoteServiceUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/repository/NoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/repository/NoteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/service/NoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/service/NoteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework06/Homework06ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework06/Homework06ApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +52,7 @@
         <option value="com.haulmont.jpb.JpaRepository" />
         <option value="AnnotationType" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -60,13 +89,20 @@
     "Application.homework_CRUD.executor": "Run",
     "Application.seminar02_CRUD_demo.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.NoteServiceIntegrationTest.addNote.executor": "Run",
+    "JUnit.NoteServiceIntegrationTest.executor": "Run",
+    "JUnit.NoteServiceUnitTest.addNote.executor": "Run",
+    "JUnit.NoteServiceUnitTest.executor": "Run",
+    "JUnit.NoteServiceUnitTest.updateNote.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework08/pom.xml",
+    "last_opened_file_path": "D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework10/pom.xml",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -75,11 +111,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\templates" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\static" />
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework05\src\main\resources" />
-      <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework04\src\main\resources\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\templates" />
@@ -87,8 +123,14 @@
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\main\java\homework07\src\main\resources\static" />
       <recent name="E:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\JavaSpring\src\test" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.homework10.service" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Homework08">
+  <component name="RunManager" selected="JUnit.NoteServiceUnitTest.updateNote">
     <configuration name="Homework02_CRUD" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="CRUD_homework" />
@@ -134,19 +176,6 @@
     <configuration name="Homework08" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.homework08.Homework08Application" />
       <module name="homework08" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="homework07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -284,6 +313,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NoteServiceIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.homework10.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.homework10.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.homework10.service.NoteServiceIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteServiceIntegrationTest.addNote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.homework10.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.homework10.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.homework10.service.NoteServiceIntegrationTest" />
+      <option name="METHOD_NAME" value="addNote" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteServiceUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.homework10.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.homework10.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.homework10.service.NoteServiceUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteServiceUnitTest.addNote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.homework10.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.homework10.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.homework10.service.NoteServiceUnitTest" />
+      <option name="METHOD_NAME" value="addNote" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoteServiceUnitTest.updateNote" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.homework10.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.homework10.service" />
+      <option name="MAIN_CLASS_NAME" value="com.example.homework10.service.NoteServiceUnitTest" />
+      <option name="METHOD_NAME" value="updateNote" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Seminar05_Example01" />
       <item itemvalue="Application.Seminar04_Example04" />
@@ -311,11 +418,19 @@
       <item itemvalue="Application.Seminar02_Example04" />
       <item itemvalue="Application.Homework07" />
       <item itemvalue="Application.Homework08" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.NoteServiceIntegrationTest" />
+      <item itemvalue="JUnit.NoteServiceIntegrationTest.addNote" />
+      <item itemvalue="JUnit.NoteServiceUnitTest" />
+      <item itemvalue="JUnit.NoteServiceUnitTest.addNote" />
+      <item itemvalue="JUnit.NoteServiceUnitTest.updateNote" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.NoteServiceUnitTest.updateNote" />
+        <item itemvalue="JUnit.NoteServiceIntegrationTest.addNote" />
+        <item itemvalue="JUnit.NoteServiceIntegrationTest" />
+        <item itemvalue="JUnit.NoteServiceUnitTest" />
+        <item itemvalue="JUnit.NoteServiceUnitTest.addNote" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708097219448</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix Homework 08 - Base Task - README">
+      <option name="closed" value="true" />
+      <created>1708097382024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708097382024</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -440,6 +563,7 @@
     <MESSAGE value="add Homework 07 - Base Task" />
     <MESSAGE value="fix Homework 07 - Base Task" />
     <MESSAGE value="add Homework 08 - Base Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework 08 - Base Task" />
+    <MESSAGE value="fix Homework 08 - Base Task - README" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix Homework 08 - Base Task - README" />
   </component>
 </project>
