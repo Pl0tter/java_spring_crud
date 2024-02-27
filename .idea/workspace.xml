@@ -4,28 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="fix Homework 08 - Base Task - README">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/Homework06Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/controller/NoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/model/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/repository/NoteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/java/com/example/homework10/service/NoteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/main/resources/import.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/Homework06ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/service/NoteServiceIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework10/src/test/java/com/example/homework10/service/NoteServiceUnitTest.java" afterDir="false" />
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 10 - Base Task">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/java/com/example/homework11/Homework11Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/java/com/example/homework11/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/java/com/example/homework11/model/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/java/com/example/homework11/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/java/com/example/homework11/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/resources/prometheus.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework11/src/test/java/com/example/homework11/Homework11ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" afterDir="false" />
@@ -65,6 +63,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -102,7 +107,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "19",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework10/pom.xml",
+    "last_opened_file_path": "E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework11/pom.xml",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -130,7 +135,7 @@
       <recent name="com.example.homework10.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.NoteServiceUnitTest.updateNote">
+  <component name="RunManager" selected="Application.Homework11">
     <configuration name="Homework02_CRUD" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="CRUD_homework" />
@@ -176,6 +181,13 @@
     <configuration name="Homework08" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.homework08.Homework08Application" />
       <module name="homework08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework11" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.homework11.Homework11Application" />
+      <module name="homework11" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -392,6 +404,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Homework11" />
       <item itemvalue="Application.Seminar05_Example01" />
       <item itemvalue="Application.Seminar04_Example04" />
       <item itemvalue="Application.Seminar05_Example02" />
@@ -549,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708097382024</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add Homework 10 - Base Task">
+      <option name="closed" value="true" />
+      <created>1708692773182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708692773182</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -564,6 +585,7 @@
     <MESSAGE value="fix Homework 07 - Base Task" />
     <MESSAGE value="add Homework 08 - Base Task" />
     <MESSAGE value="fix Homework 08 - Base Task - README" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix Homework 08 - Base Task - README" />
+    <MESSAGE value="add Homework 10 - Base Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework 10 - Base Task" />
   </component>
 </project>
