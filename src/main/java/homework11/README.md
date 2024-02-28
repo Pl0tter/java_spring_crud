@@ -9,3 +9,20 @@
 ###   Задание со звездочкой:
 - Проделать, то же самое с многомодульным проектом(добавить под контроль несколько модулей)
 - Добавить собственную метрику.
+
+### Справка
+Запуск Prometheus в docker:
+
+https://hub.docker.com/r/prom/prometheus/tags
+
+docker run -d -p 9090:9090 --name=prometheus -v .\prometheus.yml:/etc/prometheus/prometheus.yml prom/prometheus
+
+Настройки: [prometheus.yml](src/main/resources/prometheus.yml)
+
+Запуск Grafana в docker:
+
+https://hub.docker.com/r/grafana/grafana
+
+docker run -d -p 3000:3000 --name=grafana grafana/grafana
+
+![Скриншот](grafana-scr.png)
