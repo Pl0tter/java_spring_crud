@@ -4,16 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="add Homework 11 - Base Task">
+    <list default="true" id="315a04f4-66bd-4afb-a8e2-1184c3c869e7" name="Changes" comment="fix Homework 11 - Base Task - prometheus config, readme, grafana-scr">
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/Homework12Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/configuration/IntegrationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/model/TaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/model/TaskUpdatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/service/FileGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/java/com/example/homework12/service/TaskUpdatedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/main/resources/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework12/src/test/java/com/example/homework12/Homework12ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/Homework06Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/controller/NoteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/model/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/repository/NoteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/repository/NoteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/service/NoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/main/java/com/example/homework06/service/NoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework06/Homework06ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework06/src/test/java/com/example/homework06/Homework06ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework11/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework11/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework11/src/main/resources/prometheus.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework11/src/main/resources/prometheus.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +41,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Enum" />
         <option value="com.haulmont.jpb.JpaRepository" />
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,13 +59,6 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -70,6 +76,7 @@
     &quot;Application.Homework05.executor&quot;: &quot;Run&quot;,
     &quot;Application.Homework06.executor&quot;: &quot;Run&quot;,
     &quot;Application.Homework08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework12.executor&quot;: &quot;Run&quot;,
     &quot;Application.Seminar02_Example01.executor&quot;: &quot;Run&quot;,
     &quot;Application.Seminar02_Example02.executor&quot;: &quot;Run&quot;,
     &quot;Application.Seminar02_Example03.executor&quot;: &quot;Run&quot;,
@@ -91,7 +98,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework11/pom.xml&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/JavaSpring/src/main/java/homework12/pom.xml&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -119,7 +126,7 @@
       <recent name="com.example.homework10.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework11">
+  <component name="RunManager" selected="Application.Homework12">
     <configuration name="Homework02_CRUD" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="CRUD_homework" />
@@ -172,6 +179,13 @@
     <configuration name="Homework11" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.homework11.Homework11Application" />
       <module name="homework11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework12" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.homework12.Homework12Application" />
+      <module name="homework12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -389,6 +403,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Homework11" />
+      <item itemvalue="Application.Homework12" />
       <item itemvalue="Application.Seminar05_Example01" />
       <item itemvalue="Application.Seminar04_Example04" />
       <item itemvalue="Application.Seminar05_Example02" />
@@ -561,7 +576,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709046979988</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="fix Homework 11 - Base Task - prometheus config, readme, grafana-scr">
+      <created>1709117160734</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709117160734</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix Homework 11 - Base Task - prometheus config, readme, grafana-scr">
+      <created>1709117177883</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1709117177883</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -578,6 +607,7 @@
     <MESSAGE value="fix Homework 08 - Base Task - README" />
     <MESSAGE value="add Homework 10 - Base Task" />
     <MESSAGE value="add Homework 11 - Base Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework 11 - Base Task" />
+    <MESSAGE value="fix Homework 11 - Base Task - prometheus config, readme, grafana-scr" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix Homework 11 - Base Task - prometheus config, readme, grafana-scr" />
   </component>
 </project>
